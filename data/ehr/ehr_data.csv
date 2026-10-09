@@ -1,0 +1,11 @@
+patient_id,age,gender,bmi,hba1c,diabetes_duration_years,systolic_bp,diastolic_bp,family_history,medication
+P001,52,Male,28.4,7.8,6,142,90,Yes,Metformin
+P002,45,Female,26.7,7.1,4,136,86,Yes,Metformin
+P003,60,Male,30.2,8.4,10,150,94,Yes,Insulin
+P004,39,Female,24.8,6.5,2,128,82,No,Metformin
+P005,55,Male,29.1,7.9,7,146,92,Yes,Metformin
+P006,48,Female,27.5,7.3,5,134,84,No,Metformin
+P007,63,Male,31.4,8.7,12,154,96,Yes,Insulin
+P008,42,Female,25.6,6.8,3,130,80,No,Metformin
+P009,57,Male,29.8,8.1,8,148,92,Yes,Insulin
+P010,50,Female,27.2,7.5,5,138,88,Yes,Metformin
