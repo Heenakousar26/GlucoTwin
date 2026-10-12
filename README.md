@@ -172,7 +172,7 @@ Keep both terminal processes running while using the application.
 
 Watch our GlucoTwin project demonstration here:
 
-[YouTube Demo Video]((https://youtu.be/IyU7GZr4eVs))
+[YouTube Demo Video](https://youtu.be/IyU7GZr4eVs)
 
 The video demonstrates the dashboard, patient profile selection, health metrics, glucose trends, and machine-learning component.
 
