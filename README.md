@@ -168,6 +168,14 @@ Keep both terminal processes running while using the application.
 
 **Note:** The backend expects the project’s CSV files and trained model to be available in their configured locations. The frontend also requires the backend to be running.
 
+## Demo Video
+
+Watch our GlucoTwin project demonstration here:
+
+[YouTube Demo Video]((https://youtu.be/IyU7GZr4eVs))
+
+The video demonstrates the dashboard, patient profile selection, health metrics, glucose trends, and machine-learning component.
+
 ## 10. API Endpoints
 
 | Endpoint | Purpose |
